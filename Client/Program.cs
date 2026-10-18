@@ -27,7 +27,7 @@ class Program
 
         //////////////////////////
 
-        var fileStream = new FileStream("SecretLove.jpg", FileMode.Create, FileAccess.Write);
+        var fileStream = new FileStream("YusufunAski.jpg", FileMode.Create, FileAccess.Write);
 
         stream.CopyTo(fileStream);
 

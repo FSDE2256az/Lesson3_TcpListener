@@ -46,6 +46,5 @@ class Program
 
         Console.WriteLine("Completed Transfer data");
         Console.ReadLine();
-
     }
 }
